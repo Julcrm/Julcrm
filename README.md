@@ -9,7 +9,7 @@ Bonjour,
 <br>- Seaborn 🌊
 <br>- Scikit-learn 🧬 
 <br>- Streamlit 🚀<br>
-<br>Mon objectif est de mettre ces compétences au service des entreprises pour les aider à prendre des décisions éclairées grâce aux données .<br>
+<br>Mon objectif est de mettre ces compétences au service des entreprises pour les aider à prendre des décisions éclairées grâce aux données.<br>
 <br>Sur ce GitHub, vous trouverez mon portfolio avec des projets concrets allant de la préparation des données à l’analyse, en passant par des modèles de machine learning .<br>
 <br>Je suis toujours à la recherche de nouveaux défis et de nouvelles opportunités d'apprentissage 🚀, et j'ai hâte d'appliquer mes connaissances pour résoudre des problématiques réelles .<br>
 <br>N'hésitez pas à explorer mes dépôts , et à me contacter si vous souhaitez collaborer ou discuter autour des sujets liés aux données !<br>
