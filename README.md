@@ -6,11 +6,11 @@ Je conçois des pipelines de données et j'automatise des workflows. Ancien des 
 
 ---
 
-### 🔭 En ce moment :
+### En ce moment :
 - Je travaille sur un projet d'ingestion massive avec **PySpark**.
 - Je construis des agents IA autonomes avec **n8n** sur mon temps libre.
 
-### 🌱 J'apprends actuellement :
+### J'apprends actuellement :
 - L'architecture **Apache Kafka** et le Streaming.
 
 ---
