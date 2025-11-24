@@ -49,7 +49,7 @@ Je conçois des pipelines de données et j'automatise des workflows. Ancien des 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="contact" width="40" height="40"/> Contact
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="portfolio" width="20" height="20"/> [**Mon Portfolio**](https://julcrmlab.dev)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="portfolio" width="20" height="20"/> [**Mon Portfolio**](https://www.julien-castellano.fr)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/> [**LinkedIn**](https://www.linkedin.com/in/julien-castellano/)
 - <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="20" height="20"/> [**Mail**](julien.crm@gmail.com)
 
