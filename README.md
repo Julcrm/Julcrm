@@ -26,16 +26,3 @@ Ingestion Vélib · MinIO · dbt · DuckDB · Dagster · FastAPI — tourne tout
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-111827?style=flat-square&logo=uv&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julcrm&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julcrm&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&langs_count=6)
-
----
-
-## Contact
-
-[julien-castellano.fr](https://julien-castellano.fr) · [LinkedIn](https://www.linkedin.com/in/julien-castellano/) · [julien.crm@gmail.com](mailto:julien.crm@gmail.com)
